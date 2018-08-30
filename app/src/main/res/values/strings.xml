@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="select_step_title">Select step for detail</string>
+    <string name="recipe_name_label">Nutella Pie</string>
+    <string name="servings_label">Servings: </string>
+    <string name="servings_place_holder">4</string>
+    <string name="steps_label">Steps:</string>
+    <string name="steps_place_holder">8</string>
+    <string name="ingredient_measure_place_holder">"TBLSP"</string>
+    <string name="string_image_description">recipes</string>
+    <string name="title_activity_recipe_step">RecipeStepActivity</string>
+    <string name="loading_text">Loading</string>
+    <string name="no_internet_error">No Internet Connection found</string>
+    <string name="refresh_menu_button_text">Refresh</string>
+    <string name="short_description_place_holder">Short Description</string>
+    <string name="description_place_holder">2. Whisk the graham cracker crumbs, 50 grams (1/4 cup) of sugar, and 1/2 teaspoon of salt together in a medium bowl. Pour the melted butter and 1 teaspoon of vanilla into the dry ingredients and stir together until evenly mixed."</string>
+    <string name="ingredient_label">Ingredient: </string>
+    <string name="quantity_label">Quantity: </string>
+    <string name="measure_label">Measure: </string>
+    <string name="ingredient_value_place_holder">no Ingredient at this step</string>
+    <string name="measure_value_place_holder">-</string>
+    <string name="quantity_value_place_holder">-</string>
+    <string name="step_number_place_holder">1</string>
+    <string name="step_card_description_place_holder">Press the crust into baking form.</string>
+    <string name="ingredients_label">Total Ingredients: </string>
+    <string name="total_ingredients_place_holder">13</string>
+    <string name="steps">Steps</string>
+    <string name="poster_step_content_description">Step Image</string>
+    <string name="next_button_text">Next Step</string>
+    <string name="previous_button_step">Previous Step</string>
+    <string name="add_to_widget_button">add to widget</string>
+    <string name="widget_recipe_title_placeholder">Select a recipe from baking app</string>
+    <string name="widget_placeholder_string">-</string>
+    <string name="add_widget">Add widget</string>
+</resources>

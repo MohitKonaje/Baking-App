@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="widget_margin">0dp</dimen>
+    <dimen name="control_height">32dp</dimen>
+</resources>
